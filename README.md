@@ -2,5 +2,5 @@
 
 - 🌿 My name is Isabelle!
 - 🎓 I'm a second year software engineering student.
-- 🖥️ I’m currently learning Java, JavaScript, Python, and a bit of HTML.
+- 🖥️ I’m currently learning JavaScript, HTML + CSS, Python, and Node
 - 💌 You can reach me at bellebeaudry@gmail.com
